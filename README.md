@@ -1,1 +1,1 @@
-https://dhrumil1508.github.io/Calculator/
+https://github.com/dhrumil1508/calculator
